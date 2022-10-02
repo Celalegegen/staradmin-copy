@@ -1,0 +1,63 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Open Sans',sans-serif;
+}
+
+.col-12{
+    background-color: #f4f5f7;
+    height: 100px;
+}
+
+.left-side i{
+    font-size: 20px;
+    margin-left: 40px;
+    margin-top: 30px;
+}
+
+.left-side img{
+    margin-top: -6px;
+    margin-left: 8px;
+}
+
+.good-morning-yazi{
+    display: flex;
+    margin-top: -40px;
+    margin-left: 13%;
+}
+
+.good-morning-yazi h5 {
+    margin-top: 45px;
+    margin-left: -21.7%;
+    font-size: small;
+}
+
+.profiles-photo{
+    width: 32px;
+    height: 32px;
+    margin-top: -8px;
+}
+
+.right-nav-bar i{
+    font-size: 20px;
+    margin: 10px;
+}
+
+.right-nav-bar{
+    float: right;
+    margin-top: -65px;
+    margin-right: 20px;
+}
+
+/*date*/
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+    background-color: #ffffff00;
+    color: #fff;
+    border: none;
+}
+/*date bitis*/
