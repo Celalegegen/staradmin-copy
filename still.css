@@ -343,3 +343,131 @@ button, input, optgroup, select, textarea {
     margin-top: 60px;
     margin-left: 30px;
 }
+
+.grafik-sag-1{
+    width: 516px;
+    height: 172px;
+    border-radius: 15px;
+    background-color: #0d6efd;
+    
+}
+
+.grafik-sag-1 {
+    width: 516px;
+    height: 172px;
+    border-radius: 15px;
+    background-color: #0d6efd;
+    position: absolute;
+    margin-left: 1119px;
+    margin-top: -304px;
+}
+
+.status {
+    color: white;
+    font-weight: 600;
+    font-size: 17px;
+    margin-left: 31px;
+    margin-top: 25px;
+}
+
+.status-kucuk {
+    margin-left: 34px;
+    color: #ffffffab;
+}
+
+.status-sayi {
+    font-weight: lighter;
+    color: aqua;
+    font-size: 28px;
+    margin-left: 32px;
+}
+
+.grafik-2 {
+    width: 516px;
+    height: 108px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 1119px;
+    margin-top: -110px;
+}
+
+.daire-1 {
+    font-size: 50px;
+    margin-left: 32px;
+    margin-top: 27px;
+}
+
+.grafik-sag-2 .daire-1{
+	font-size: 40px;
+    background: linear-gradient(to bottom, rgba(199,199,199,1) 37%, rgba(39,147,233,1) 37%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+   -webkit-text-fill-color:transparent;
+}
+
+.total-v {
+    margin-top: -42px;
+    margin-left: 173px;
+    position: absolute;
+}
+
+.total-yazi {
+    margin-left: 178px;
+    margin-top: -21px;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+
+
+
+.grafik-3 {
+    width: 516px;
+    height: 108px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-left: 1370px;
+    margin-top: -110px;
+}
+
+.daire-2 {
+    font-size: 50px;
+    margin-left: 32px;
+    margin-top: 27px;
+}
+
+.grafik-sag-3 .daire-2{
+	font-size: 40px;
+    background: linear-gradient(to bottom, rgba(199,199,199,1) 37%, rgb(21, 255, 0) 37%);
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+   -webkit-text-fill-color:transparent;
+}
+
+.total-vv {
+    margin-top: -42px;
+    margin-left: 173px;
+    position: absolute;
+}
+
+.yazi-total {
+    margin-left: 178px;
+    margin-top: -21px;
+    font-weight: 600;
+    font-size: 22px;
+}
+
+.grafik-2-ana{
+    background-color: red;
+    height: 1615px;
+    width: 1610px;
+    margin-top: 30px;
+}
+
+
+.grafik-2-market-overview{
+    width: 1635px;
+    height: 305px;
+    background-color: white;
+    margin-top: 42px;
+}
